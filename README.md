@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naveen09cool
 - 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Java and NodeJs
 - 📫 How to reach me ... naveen09cool@gmail.com
 
 <!---
