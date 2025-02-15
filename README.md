@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naveen09cool
 - 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... Java and NodeJs
-- 📫 How to reach me ... naveen09cool@gmail.com
+- 🌱 I’m currently learning ... NodeJs and React
+- 📫 How to reach me ... naveensingh.swe@gmail.com
 
 <!---
 Naveen09cool/Naveen09cool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
